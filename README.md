@@ -1,4 +1,4 @@
-# Feature-importance-research
+# Attacking the problem of distribution shift
 
 ### Problem setting
 How can we choose features that predict labels as precisely as possible?
